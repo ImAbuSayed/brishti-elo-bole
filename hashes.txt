@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Brishti Elo Bole
+
+This log tracks the cryptographic history and versioning for the song **Brishti Elo Bole** (brishti-elo-bole).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-13T09:16:41.498003 | `v1` | `a076162f6602e9409ba08b8cf7d9c01439d7ec2c16a57504b84e4fd70ed4e383` | `6364ff76e96c7e0bd341578ceb4a9cf1d1002a64a6746ffd7249a732b090a658` | `2026-05-13_brishti-elo-bole-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
